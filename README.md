@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js and MongoDB**
 
-- 💬 Ask me about **Flutter/Dart, Node.js, PostgreSQL and MongoDB**
+- 💬 Ask me about **Flutter/Dart, Django, MySQL**
 
 - 📫 How to reach me **developedbyamin@gmail.com**
 
