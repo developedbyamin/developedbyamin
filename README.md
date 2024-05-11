@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and MySQL**
 
-- 💬 Ask me about **Flutter/Dart, Django, MySQL**
+- 💬 Ask me about **Flutter/Dart**
 
 - 📫 How to reach me **developedbyamin@gmail.com**
 
