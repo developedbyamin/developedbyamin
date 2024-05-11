@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developedbyamin" alt="developedbyamin" /></a> </p>
 
-- 🌱 I’m currently learning **Django and MySQL**
+- 🌱 I’m currently learning **Django MySQL and Docker**
 
 - 💬 Ask me about **Flutter/Dart**
 
