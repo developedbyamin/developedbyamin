@@ -1,8 +1,6 @@
 <h1 align="center">Hi :) I'm Amin Aghayev</h1>
 <h3 align="center">Mobile App Developer from Azerbaijan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developedbyamin" alt="developedbyamin" /></a> </p>
-
 - 🌱 I’m currently learning **Django MySQL and Docker**
 
 - 💬 Ask me about **Flutter/Dart**
