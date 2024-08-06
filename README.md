@@ -1,7 +1,7 @@
 <h1 align="center">Hi :) I'm Amin Aghayev</h1>
 <h3 align="center">Mobile App Developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Django MySQL and Docker**
+- 🌱 I’m currently learning **JAVA/Spring boot, Oracle and Docker**
 
 - 💬 Ask me about **Flutter/Dart**
 
